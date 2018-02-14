@@ -1,7 +1,7 @@
 body {
 	background-color: #fff;
-	font-family: 'Teko', sans-serif;
-	font-weight: 500;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
 }
 
 form {
@@ -58,7 +58,7 @@ input:focus, textarea:focus {
 }
 
 h1, h2, h3 {
-	font-family: 'BenchNine', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	letter-spacing: 1px;
 	font-weight: 500;
 	margin-bottom: 20px;
@@ -128,7 +128,8 @@ h1, h2, h3 {
 
 .hovereffect .overlay-text {
 	font-size: 1.3rem;
-	font-family: 'BenchNine', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
+	letter-spacing: 3px;
 	font-weight: 500;
 	color: #333;
 	left: 50%;
