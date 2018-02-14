@@ -129,7 +129,6 @@ h1, h2, h3 {
 .hovereffect .overlay-text {
 	font-size: 1.3rem;
 	font-family: 'Barlow Condensed', sans-serif;
-	letter-spacing: 3px;
 	font-weight: 500;
 	color: #333;
 	left: 50%;
