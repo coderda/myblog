@@ -58,7 +58,7 @@ input:focus, textarea:focus {
 }
 
 h1, h2, h3 {
-	font-family: 'Teko', sans-serif;
+	font-family: 'BenchNine', sans-serif;
 	letter-spacing: 1px;
 	font-weight: 500;
 	margin-bottom: 20px;
@@ -72,8 +72,7 @@ h1, h2, h3 {
 	font-family: "BenchNine", sans-serif;
 	font-weight: 700;
 	font-size: 1.5rem;
-	font-kerning: 5px;
-	letter-spacing: 0.5px;
+	letter-spacing: 10px;
 }
 
 .navbar {
@@ -129,9 +128,9 @@ h1, h2, h3 {
 
 .hovereffect .overlay-text {
 	font-size: 1.3rem;
-	font-family: 'Teko', sans-serif;
+	font-family: 'BenchNine', sans-serif;
 	font-weight: 500;
-	color: #000;
+	color: #333;
 	left: 50%;
 	position: absolute;
 	top: 50%;
@@ -173,7 +172,7 @@ h1, h2, h3 {
 }
 .page-nav a,span {
 	font-size: 1.3rem;
-	font-family: 'Teko', sans-serif;
+	font-family: 'BenchNine', sans-serif;
 	font-weight: 500;
 	margin: 0 10px;
 	color: #fff;
